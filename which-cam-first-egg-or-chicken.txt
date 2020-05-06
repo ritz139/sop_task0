@@ -1,0 +1,14 @@
+git clone <remote repo path> - to clone the remote repo to my local system
+cd <dir> - used to change directory
+git branch <branch_name> - creates a new branch
+git branch - shows all the branches and highlights the current branch
+touch <filename> - creates a new file
+start <filename> - opens <filename>
+git merge <branch> - merges the <branch> with current branch
+git switch <branch> or git checkout <branch> - switches to <branch>
+git pull - to pull the most recent changes from the remote repo
+git add . - adds changes in the working directory to the staging area
+git commit -m message - captures the state of a project at that point in time 
+			NOTE:Git Snapshots are always committed to the local repository.
+Egg
+Since egg has been a fossilfuel for long time, a chick should have hatched out of an egg which resulted due to evolution of different organism.
